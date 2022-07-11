@@ -1,0 +1,41 @@
+Casting :
+a) Converting one type of information into another type is called casting
+b. In java casting is classified into 2 types:
+1. Primitive casting
+2. Non-primitive casting
+
+1. Primitive-casting:
+a. Converting one data type of information into another data type is called casting
+b. Primitive-casting is classified into 2 types:
+1. implicit casting
+2. explicit casting
+
+1. implicit casting:
+a. Converting lower data type info into higher data type info is called implicit casting.
+b. implicit casting is also called widning casting, where memory size goes on increasing,
+
+2. explicit casting:
+a. Converting higher data type info into lower data type info is called explicit casting.
+b. explicit casting is also called narrowing casting, where memory size goes on decresing.
+In explicit casting data loss takes place
+
+
+Non-primitive-casting
+
+a. Converting one type of class into another type of class is called non-primitive.
+Non-primitive is classified into 2 types:
+ * 1. up casting
+ 2. down casting
+1. up casting:
+a. Assigning subclass property into superclass is called up casting.
+b. Before performing upcasting 1st we need to perform inheritance operation.
+c. After performing inheritance, the property which are present inside superclass comes
+into subclass.
+a. In the subclass programmer can declare new properties.
+b. At the time of upcasting the properties which are inherited from superclass are only
+eligible for the upcasting operation.
+c. The new property which were declared inside subclass are not eligible for upcasting
+operation.
+2. down casting:
+a. Assigning superclass property into subclass is called down casting.
+b. Before performing down casting 1st we need to perform upcasting.

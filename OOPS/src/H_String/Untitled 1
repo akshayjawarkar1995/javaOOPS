@@ -1,0 +1,24 @@
+	String:  String is an object that represent sequence of character.
+		1. String is non-primitive data type, memory size is not fixed.
+		2. String is a class present inside "java.lang" package.
+		3. String is used to store collection of characters.
+		4. At the time of String declaration, initialization, object creation takes place.
+		5. String objects are immutable in nature/can’t be change.
+		6. String class is final class can't be inherited to other classes.
+		7. Object creation of String can be done in 2 ways:
+			a. without using new keyword ex. String s=”abc”
+			b. Using new keyword ex. String s1= new String(abc);
+ 		8. String objects are going to get stored inside String pool area which is present inside
+ 			heap area.
+ 			
+	String pool area:
+		1. It is used to store String objects.
+		2. It is classified into 2 areas:
+			a. constant pool area
+			b. non-constant pool area.
+ 	1. During object creation time if you don't make use of new keyword then object creation
+ 		takes place inside constant pool area.
+		Duplicate objects are not allowed inside constant pool area.
+		
+ 	2. During object creation time if you make use of new keyword then object creation takes
+ 		place inside non-constant pool area.

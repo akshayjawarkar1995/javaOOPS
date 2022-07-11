@@ -1,0 +1,48 @@
+	
+	Array  
+		1.Array is a collection of similar type element which has contiguous memory location.
+		2.It is a data structure where we store similar elements.
+		3.We can store only a fixed set of element.
+		4.Array is index based and first element of the is stored at the oth index
+
+	Types of array 
+		1. Single dimensional Array -- 1D Array
+		2. Multidimensional Array 
+
+	Advantages of array
+		1.We can represent huge number of values by using single variable.
+		so that readability of the code will be improved.
+		2.Code Optimization.
+		3.Random Access
+
+	Disadvantages
+		1.Fixed in size i.e once we create array there not a chance of increasing size.
+	 		-To overcome of this problem we use collection/Array list
+
+	2.Arrays can hold only similar/homogeneous type of data.
+			- To overcome of this problem we use object array.
+
+-----------------------------------------------------------------------------------------------------------
+
+	2. Multidimensional Array/ 2D array
+
+		2D array can be define as an array of arrays.
+		The 2D array is organized as matrices which can be represented as a collection rows and columns
+
+		Row*columns
+
+
+----------------------------------------------------------------------------------------------------------------------------------
+	Logical Programs 
+
+	1.Reverse Program
+	2.Largest Number form given array
+	3.Smallest Number
+	4.Duplicate Number
+	5.OddEven Number
+ 
+
+		
+
+
+
