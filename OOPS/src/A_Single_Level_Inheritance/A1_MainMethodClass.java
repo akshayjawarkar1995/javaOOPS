@@ -11,6 +11,7 @@ public class A1_MainMethodClass { // in this class we are calling both class pro
 			s.Car();
 			s.Money();		
 			System.out.println();
+			System.out.println("");
 						
 		}
 
